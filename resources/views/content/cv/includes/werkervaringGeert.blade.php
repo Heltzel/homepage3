@@ -20,7 +20,6 @@
       project gaat nu een 2e fase in, waarin ik helaas overtallig werd.</p>
   </article>
 
-
   <article class="my-4">
     <h5>Archipel-zorggroep - Technische dienst</h5>
     <h6 class=" font-weight-bolder">2016 - 20189</h6>
@@ -34,6 +33,8 @@
       hulpmiddelen
       en persoolijke alarmeringen voor de clienten.</p>
   </article>
+
+  <div class="page-brake"></div>
 
   <article class="my-4">
     <h5>Sankomij Installatietechniek - Loodgieter nieuwbouw / Onderhoudsmonteur CV ketels </h5>

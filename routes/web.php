@@ -1,5 +1,6 @@
 <?php
 
+// use PDF;
 use Illuminate\Support\Facades\Route;
 
 // Route::get('/app', function () {
@@ -12,6 +13,8 @@ Route::get('/', function () {
 Route::get('/my-cv', function () {
     return view('content.cv.index');
 })->name('content.cv.index');
+
+Route::get('/my-cv/pdf', 'CvController@export_to_pdf')->name('content.cv.pdf');
 
 Route::get('/about', function () {
     return view('content.about');

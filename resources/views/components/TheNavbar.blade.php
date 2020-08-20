@@ -8,14 +8,7 @@
 </style>
 
 {{-- <nav class="navbar navbar-expand-lg navbar-dark bg-bg-blue pt-4 mx-xl-5"> --}}
-<nav class="navbar navbar-expand-lg navbar-dark bg-bg-blue p-0 mt-4  ml-0 mr-4 sticky-top w-100">
-
-  <a class="navbar-brand m-xs-5" href="/">
-    <div class="d-lg-none">
-      <img src="{{ asset('img/logoSmallScreen.svg')}}" alt="Marc Heltzel- All about webdev">
-    </div>
-  </a>
-
+<nav class="navbar navbar-expand-lg navbar-dark bg-bg-blue p-0 mt-4  ml-0 mr-4 sticky-top w-100" id="nav-main">
   <div class="d-none d-lg-block pl-xl-5">
     <svg width="320" height="87" viewBox="-40 0 364 87" fill="none" xmlns="http://www.w3.org/2000/svg">
       <g filter="url(#filter0_d)">

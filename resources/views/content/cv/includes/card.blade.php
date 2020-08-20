@@ -27,7 +27,7 @@
 <h4 class="geralteerd">
   Gerelateerd
 </h4>
-<div id="geralteerd">
+<div id="geralteerd" class="ml-1">
   <a href="https://www.sliminict.nl/" target="_self">
     <img src="{{asset('img/logoSlimInIct.jpg')}}" alt="logo SlimInIct" width="90">
   </a>
