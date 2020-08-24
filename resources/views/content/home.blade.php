@@ -3,10 +3,7 @@
 @section('content')
 
 <style>
-  svg {
-    /* border: 1px solid red; */
-  }
-
+ 
   @media (orientation: portrait) {
     .landscape {
       height: 0;
